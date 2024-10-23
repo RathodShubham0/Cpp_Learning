@@ -31,3 +31,8 @@
 *.out
 *.app
 /.vs/Cpp_Learning
+/x64/Debug
+/PointersAndReferances/x64/Debug
+/ExceptionHandling/x64/Debug/Exceptio.21849e60.tlog
+/ExceptionHandling/x64/Debug
+/Constant/x64/Debug

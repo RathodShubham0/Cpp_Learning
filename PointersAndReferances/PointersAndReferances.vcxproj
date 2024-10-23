@@ -129,8 +129,10 @@
   <ItemGroup>
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="PointersAndReferances.cpp" />
+    <ClCompile Include="Source\Pointer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Headers\Pointer.h" />
     <ClInclude Include="Pointer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

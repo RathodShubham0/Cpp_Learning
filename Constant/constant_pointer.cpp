@@ -4,7 +4,7 @@ using namespace std;
 
 void constantPointer(const int* ptr) {
     // *ptr = 10; // Error: Cannot modify const data through pointer
-     cout << "Value: " << *ptr << std::endl;
+     cout << "Value: " << *ptr <<  endl;
 }
 
 void pointerToConstant(int* const ptr) {
